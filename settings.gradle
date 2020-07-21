@@ -1,0 +1,2 @@
+include ':app', ':taobao', ':commonlib'
+rootProject.name='AlipayPlaug'
